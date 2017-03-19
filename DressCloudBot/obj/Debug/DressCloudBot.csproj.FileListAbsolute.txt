@@ -1,0 +1,1 @@
+c:\Projects\DressCloudBot\DressCloudBot\bin\Debug\DressCloudBot.exe.config
