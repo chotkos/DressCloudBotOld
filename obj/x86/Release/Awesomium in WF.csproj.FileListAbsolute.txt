@@ -1,0 +1,3 @@
+C:\projects\DressCloudBot\Awesomium_in_WF\Awesomium in WF\obj\x86\Release\Awesomium_in_WF.Form1.resources
+C:\projects\DressCloudBot\Awesomium_in_WF\Awesomium in WF\obj\x86\Release\Awesomium_in_WF.Properties.Resources.resources
+C:\projects\DressCloudBot\Awesomium_in_WF\Awesomium in WF\obj\x86\Release\Awesomium in WF.csproj.GenerateResource.Cache

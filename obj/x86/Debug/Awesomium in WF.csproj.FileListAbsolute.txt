@@ -1,0 +1,39 @@
+D:\_Исходники\__Codeproject\Browser controls\Awesomium in WF\obj\x86\Debug\Awesomium_in_WF.Form1.resources
+D:\_Исходники\__Codeproject\Browser controls\Awesomium in WF\obj\x86\Debug\Awesomium_in_WF.Properties.Resources.resources
+D:\_Исходники\__Codeproject\Browser controls\Awesomium in WF\obj\x86\Debug\Awesomium in WF.csproj.GenerateResource.Cache
+D:\_Исходники\__Codeproject\Browser controls\Awesomium in WF\bin\Debug\Awesomium in WF.exe
+D:\_Исходники\__Codeproject\Browser controls\Awesomium in WF\bin\Debug\Awesomium in WF.pdb
+D:\_Исходники\__Codeproject\Browser controls\Awesomium in WF\bin\Debug\Awesomium.Core.xml
+D:\_Исходники\__Codeproject\Browser controls\Awesomium in WF\bin\Debug\Awesomium.Windows.Forms.xml
+D:\_Исходники\__Codeproject\Browser controls\Awesomium in WF\bin\Debug\awesomium.dll
+D:\_Исходники\__Codeproject\Browser controls\Awesomium in WF\bin\Debug\icudt.dll
+D:\_Исходники\__Codeproject\Browser controls\Awesomium in WF\bin\Debug\avcodec-53.dll
+D:\_Исходники\__Codeproject\Browser controls\Awesomium in WF\bin\Debug\avformat-53.dll
+D:\_Исходники\__Codeproject\Browser controls\Awesomium in WF\bin\Debug\avutil-51.dll
+D:\_Исходники\__Codeproject\Browser controls\Awesomium in WF\bin\Debug\libEGL.dll
+D:\_Исходники\__Codeproject\Browser controls\Awesomium in WF\bin\Debug\libGLESv2.dll
+D:\_Исходники\__Codeproject\Browser controls\Awesomium in WF\bin\Debug\awesomium_process
+D:\_Исходники\__Codeproject\Browser controls\Awesomium in WF\bin\Debug\inspector.pak
+D:\_Исходники\__Codeproject\Browser controls\Awesomium in WF\bin\Debug\xinput9_1_0.dll
+D:\_Исходники\__Codeproject\Browser controls\Awesomium in WF\obj\x86\Debug\Awesomium in WF.exe
+D:\_Исходники\__Codeproject\Browser controls\Awesomium in WF\obj\x86\Debug\Awesomium in WF.pdb
+C:\projects\DressCloudBot\Awesomium_in_WF\Awesomium in WF\obj\x86\Debug\Awesomium in WF.csprojResolveAssemblyReference.cache
+C:\projects\DressCloudBot\Awesomium_in_WF\Awesomium in WF\obj\x86\Debug\Awesomium_in_WF.Form1.resources
+C:\projects\DressCloudBot\Awesomium_in_WF\Awesomium in WF\obj\x86\Debug\Awesomium_in_WF.Properties.Resources.resources
+C:\projects\DressCloudBot\Awesomium_in_WF\Awesomium in WF\obj\x86\Debug\Awesomium in WF.csproj.GenerateResource.Cache
+C:\projects\DressCloudBot\Awesomium_in_WF\Awesomium in WF\bin\Debug\Awesomium.Core.xml
+C:\projects\DressCloudBot\Awesomium_in_WF\Awesomium in WF\bin\Debug\Awesomium.Windows.Forms.xml
+C:\projects\DressCloudBot\Awesomium_in_WF\Awesomium in WF\bin\Debug\awesomium.dll
+C:\projects\DressCloudBot\Awesomium_in_WF\Awesomium in WF\bin\Debug\icudt.dll
+C:\projects\DressCloudBot\Awesomium_in_WF\Awesomium in WF\bin\Debug\avcodec-53.dll
+C:\projects\DressCloudBot\Awesomium_in_WF\Awesomium in WF\bin\Debug\avformat-53.dll
+C:\projects\DressCloudBot\Awesomium_in_WF\Awesomium in WF\bin\Debug\avutil-51.dll
+C:\projects\DressCloudBot\Awesomium_in_WF\Awesomium in WF\bin\Debug\libEGL.dll
+C:\projects\DressCloudBot\Awesomium_in_WF\Awesomium in WF\bin\Debug\libGLESv2.dll
+C:\projects\DressCloudBot\Awesomium_in_WF\Awesomium in WF\bin\Debug\awesomium_process
+C:\projects\DressCloudBot\Awesomium_in_WF\Awesomium in WF\bin\Debug\inspector.pak
+C:\projects\DressCloudBot\Awesomium_in_WF\Awesomium in WF\bin\Debug\xinput9_1_0.dll
+C:\projects\DressCloudBot\Awesomium_in_WF\Awesomium in WF\bin\Debug\AwesomiumDressCloudBot.exe
+C:\projects\DressCloudBot\Awesomium_in_WF\Awesomium in WF\bin\Debug\AwesomiumDressCloudBot.pdb
+C:\projects\DressCloudBot\Awesomium_in_WF\Awesomium in WF\obj\x86\Debug\AwesomiumDressCloudBot.exe
+C:\projects\DressCloudBot\Awesomium_in_WF\Awesomium in WF\obj\x86\Debug\AwesomiumDressCloudBot.pdb
